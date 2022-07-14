@@ -1,4 +1,4 @@
-# Fetch data form the api
+# Fetch data from the internet
 
 A new Flutter project.
 
